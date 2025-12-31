@@ -19,6 +19,8 @@ Advantages:
 Disadvantages:
 - Limited gain compared to directional antennas
 - Large physical size at lower frequencies
+- Narrow bandwidth
+- Poor directivity
 
 **PROCEDURE**
 
