@@ -4,14 +4,21 @@ A dipole antenna is one of the simplest and most widely used antennas, made of t
 
 Uses:
 
-Dipole antennas are fundamental in wireless comms, used for everything from simple home FM/TV antennas (like rabbit ears) and Wi-Fi routers to complex setups in 4G/5G, amateur (ham) radio, IoT, and even feeding larger antennas for satellite/radar, acting as basic radiators or driven elements in arrays for broadcasting, mobile, shortwave, and navigation systems.
+- Dipole antennas are fundamental in wireless comms
+- used for everything from simple home FM/TV antennas (like rabbit ears) and Wi-Fi routers to complex setups in 4G/5G
+- amateur (ham) radio, IoT, and even feeding larger antennas for satellite/radar
+- acting as basic radiators or driven elements in arrays for broadcasting, mobile, shortwave, and navigation systems.
 
 Advantages:
 
-Simple to design, making it cost effective.
+- Simple to design, making it cost effective.
+- Can be operated at multiple frequencies.
+- Good radiation efficiency
+- Can operate over a wide range of frequencies
 
-Can be operated at multiple frequencies.
-
+Disadvantages:
+- Limited gain compared to directional antennas
+- Large physical size at lower frequencies
 
 **PROCEDURE**
 
