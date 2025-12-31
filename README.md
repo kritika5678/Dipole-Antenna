@@ -1,4 +1,7 @@
 # Dipole-Antenna
+
+A dipole antenna is one of the simplest and most widely used antennas, made of two equal-length conductors, commonly used for RF transmission and reception.
+
 **PROCEDURE**
 
 1) In the experiment we drew two cylinders one outer (Cylinder 2) and one inner (Cylinder 1).
