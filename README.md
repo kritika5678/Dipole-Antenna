@@ -7,3 +7,7 @@
 
 3) Cylinder 1 has radius 1 mm and height 15 mm. It also has a duplicate cylinder named Cylinder 1_1.
 4) Cylinder 2 has radius 50 mm and height 400 mm. It is used as radiation box.
+5) Duplicate cylinder was created in order to create a small gap between the concentric cylinders.
+6) A rectangle was also inserted inside the cylinders the rectangle was oriented wrt to the X axis
+   Position of rectangle: (0, -1, -0.5)  Y size: 2 mm  Z size: 1 mm
+7) The excitation was passed using the rectangular faces , lumped port was chosen.
